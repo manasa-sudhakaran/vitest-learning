@@ -27,3 +27,7 @@ yarn test
 ```
 
 Vitest will run all test files matching the pattern `*.test.jsx` or `*.test.js` and display the results in the console.
+<<<<<<< HEAD
+=======
+
+>>>>>>> c07962a1aa9181d6a681a01666e82e86f4df41fe
