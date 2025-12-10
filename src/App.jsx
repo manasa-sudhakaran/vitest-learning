@@ -6,7 +6,7 @@ import UserProfile from "./components/UserProfile";
 function App() {
   return (
     <>
-      <Greeting name={"Pedro"} />
+      <Greeting name={"Manasa"} />
       <Counter />
       <UserProfile userId={4} />
     </>

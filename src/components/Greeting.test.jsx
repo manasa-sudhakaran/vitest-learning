@@ -11,8 +11,8 @@ describe("Greeting", () => {
   });
 
   it("renders greeting with a name", () => {
-    render(<Greeting name={"Pedro"} />);
-    const text = screen.getByText("Hello, Pedro!");
+    render(<Greeting name={"Manasa"} />);
+    const text = screen.getByText("Hello, Manasa!");
     expect(text).toBeInTheDocument();
   });
 });
